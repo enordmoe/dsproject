@@ -1,0 +1,25 @@
+---
+title: "Your Data Science Project Title Here"
+author: "Group Member Names Here" 
+date: "Final Report Due Tuesday, March 16, 2021"
+output: 
+  github_document: 
+    toc: true
+    toc_depth: 2
+---
+
+
+```{r setup, include = FALSE}
+# This setup chunk sets global defaults and includes the tidyverse packages
+# The option include = FALSE prevents warnings and messages from printing to your report.
+# Change the next option to echo = FALSE to hide code chunks by default 
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+# Introduction
+
+<!-- Insert sections here according to whatever format you prefer. -->
+
+# Conclusion
+
