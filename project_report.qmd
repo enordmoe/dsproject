@@ -1,0 +1,48 @@
+---
+title: "Your Data Science Project Title Here"
+author: "Group Member Names Here" 
+date: "Final Report Due Monday, March 18, 2024"
+format: 
+  html:
+      theme: default
+editor: visual
+toc: true
+execute: 
+  warning: false
+  echo: true #change to false when you submit your final project
+---
+
+```{r}
+#| label: setup
+#| include: false
+#| eval: true
+library(tidyverse)
+# Data import commands should be early
+```
+
+<Headings below are just one suggestion. You can use your own structure but keep the rubric in mind>
+
+# Introduction
+
+# Data Collection and Preprocessing
+
+# Exploratory Data Analysis and Visualization
+
+# Conclusion and Discussion
+
+## Data-based insights
+
+## Critique 
+
+## What would we do differently if starting over (or possibilities for further work with this data)
+
+
+
+
+
+
+
+
+
+# Conclusion
+
